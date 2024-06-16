@@ -1,0 +1,46 @@
+
+body{
+     margin: 0;
+     padding:0;
+     box-sizing: border-box;
+     height: 100vh;
+}
+
+div{
+     display: flex;
+     flex-direction: row;
+    width: 50%;
+      box-sizing: inherit;
+     border-radius: 30px;
+     padding: 20px;
+     margin: 3px;
+    align-items: center;
+    background-color: rgb(164, 146, 120) ;
+
+}
+
+h1{
+    background-color: rgb(164, 146, 120) ;
+    box-sizing: inherit;
+    border-radius: 10px;
+   
+
+    
+}
+
+#coffee{
+    height: 300px;
+     border-radius: 10px;
+    
+     
+}
+p{
+     padding: 10px;
+    
+     
+}
+
+
+body{
+     background: linear-gradient(-45deg, rgb(164, 146, 120), white);
+}
